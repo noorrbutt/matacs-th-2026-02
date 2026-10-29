@@ -2,7 +2,7 @@
 
 - **Name:** Noor Butt
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:**about 1.5 hours
+- **Time actually spent:** about 1.5 hours
 
 ## How I used AI tools
 I used claude for a better understanding of the provided candidate brief, then I asked it to provide me a skeleton for each file, so that I can copy and paste them into my repo while also filling it with my relevant stuff. 
