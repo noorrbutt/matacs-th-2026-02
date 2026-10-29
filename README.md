@@ -14,4 +14,4 @@ For a different opinion I asked ChatGPT and it said C is the best, hence I went 
 - [diagram/flow.png](diagram/flow.png): process flow, upload to ranked output
 - [PROMPTS.md](PROMPTS.md): extraction prompt and optional reason prompt
 - [ranking.json](ranking.json): expected ranking of A-E
-- [prototype/](prototype/): optional script. `python prototype/score.py prototype/sample_extractions.json ranking.json` re-creates the ranking deterministically. `extract.py` runs the prompt on text files you keep locally (not committed). Copy `.env.example` to `.env` for a key.
+- [prototype/](prototype/): optional script. `python prototype/score.py prototype/sample_extractions.json ranking.json` re-creates the ranking deterministically.
