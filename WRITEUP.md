@@ -35,5 +35,9 @@ The reviewer can re-score with one click. Because extraction is stored, this is 
 | Bias | Company names and reputation are not scoring inputs; the criteria are the only basis; periodic audit of overrides and outcomes. |
 | Gaming the format | Page limits, file type checks, and scanning for hidden text. |
 | Cost | Extract once and cache; small model; scoring is free code. |
-| Criteria drift | Versioning (see 4). |
+| Manipulation (hidden instructions in a proposal, as in C) | Proposal text is treated as data only; the AI cannot set scores or ranks; injection is detected, ignored and flagged for a human. |
 
+## Assumptions
+- Experience is scored in bands (12+ installs = 100, 9-11 = 80, 6-8 = 60), and 12 years of workmanship warranty counts as full marks.
+- A missing value (e.g. D's schedule) scores 0 and the proposal is marked provisional and flagged, not ranked.
+- "Since 2021" may include installs outside the 5-year window, so a reviewer (me lol) confirms the count.
